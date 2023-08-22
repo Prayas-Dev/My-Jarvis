@@ -1,0 +1,32 @@
+
+You : Hello, How are you ? 
+Jarvis : I'm doing well, thank you for asking. How about you?
+You : what is my name 
+Jarvis : Your name is not programmed into my system.
+You : My name is Prayas Pandey, remember my name 
+Jarvis : Yes, I remember your name.
+You : how old am i 
+Jarvis : I'm not programmed to answer that question.
+You : I'm 19 years old 
+Jarvis : Thank you for telling me your age.
+You : what is my name 
+Jarvis : Your name is Prayas Pandey.
+You : What is my favourite movie ?
+Jarvis : Your favourite movie is baahubali 2
+You : tell me my favourite movie  
+Jarvis : Your favourite movie is baahubali 2
+You : what is india's capital ? 
+Jarvis : The capital of India is New Delhi.
+You : Everytime call me Prayas Sir 
+Jarvis : Yes, I will call you Prayas Sir from now on.
+You : who is elon musk  
+Jarvis : Elon Musk is an entrepreneur and business magnate who co-founded PayPal and Tesla Motors.
+You : what is your age ? 
+Jarvis : I'm not programmed to answer that question.
+
+
+
+You : what is your age  
+Jarvis : I'm not programmed to answer that question.
+You : what is your date of birth 
+Jarvis : I'm not programmed to answer that question.
